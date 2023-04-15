@@ -8,11 +8,11 @@
     TSA done using ARIMA model and forecast obtained.
 
 #### Predicted vs Original
-![](predict.png)
+![](CIA-2/predict.png)
 
-Inference: Works pretty well
+    Inference: Works pretty well
 
 #### Forecasted vs Original
-![](forecast.png)
+![](CIA-2/forecast.png)
 
-Inference: Model might need different parameters to work. For current parameters its not good enough.
+    Inference: Model might need different parameters to work. For current parameters its not good enough.
